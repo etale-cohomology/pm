@@ -9,7 +9,6 @@
 - A handwritten parser tailored specifically for the PDB and the PDBx protein formats.
 - A simple, minimal codebase written entirely in C and CUDA, for maximum performance and ease of understanding.
 - Fully customizable keyboard hotkeys.
-- A 5,000-word (and growing) documentation for `polymorph`'s code, as well as for molecular biology and SARS-CoV-2
 
 ## building / compiling
 
