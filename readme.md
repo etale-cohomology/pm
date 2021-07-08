@@ -98,6 +98,7 @@ neutron (gc: `939 MeV/c2`; ec: ` 0 e`; sc: `??`; wc: `??`; spin: `1/2`)
 
 --------------------------------------------------------------------------------------------------------------------------------
 --------------------------------------------------------------------------------------------------------------------------------
+
 # molecular biology 101
 
 DNA produces 
@@ -383,10 +384,6 @@ cobicistat
 darunavir
 interferon atomization
 
-# sars S-based vaccine
-
-# sars N-based vaccine
-
 --------------------------------------------------------------------------------------------------------------------------------
 # sars-cov-2 misc
 
@@ -396,7 +393,6 @@ The function of nsP3 has been more difficult to pin down and it has long been re
 The protein comprises three domains, an N-terminal macro domain, a central zinc-binding domain and a C-terminal hypervariable domain (HVD).
 In this article, we review old and new literature about the functions of the three domains. Much progress in recent years has contributed to a picture of nsP3,
 particularly through its HVD as a hub for interactions with host cell molecules, with multiple effects on the biology of the host cell at early points in infection.
-These and many future discoveries will provide targets for anti-viral therapies as well as strategies for modification of vectors for vaccine and oncolytic interventions.
 
 sars-cov-1 fatality: 10.0%  
 sars-cov-2 fatality:  0.1%  
@@ -439,7 +435,7 @@ There proteins are important targets for the development of antiviral that would
 
 4^3 codons
 
-Since  there are 4^3 nucleotide triplets to specify only twenty different amino acids, the genetic code is degenerate
+Since there are 4^3 nucleotide triplets to specify only twenty different amino acids, the genetic code is degenerate
 
 There are six possible DNA reading frames (ie. six ways in which the DNA can be grouped into trinucleotides): the true coding frame, if any, and five other non-coding frames
 
@@ -463,8 +459,6 @@ In the fight against coronavirus, scientists have come up with three strategies 
   1) Use existing molecular databases to screen for molecules that may have therapeutic effect on coronavirus. High-throughput screening makes this strategy possible, and new functions of many drug molecules can be found through this strategy, eg. the discovery of anti-HIV infection drug lopinavir/ritonavir.
   2) Develop new targeted drugs from scratch based on the genomic information and pathological characteristics of coronaviruses. Theoretically, the drugs found through these therapies would exhibit better anti-coronavirus effects, but the 
 research procedure of new drug might cost years/decades.
-
-There are still are no clinically approved antiviral drugs, vaccines or monoclonal antibody therapies to treat SARS-CoV infections
 
 The coronaviral proteases, papain-like protease (PLpro) and 3C-like protease (3CLpro), are attractive antiviral drug targets because they are essential for coronaviral replication
 
@@ -499,7 +493,6 @@ sars-cov-2 S glycoprotein (close)  https://www.rcsb.org/structure/6vxx
 
 global infections                  https://www.tableau.com/covid-19-coronavirus-data-resources
 map                                https://coronavirus.jhu.edu/map.html
-vaccines & therapeutics            https://milkeninstitute.org/covid-19-tracker
 
 --------------------------------------------------------------------------------------------------------------------------------
 # sars-cov-2 proteins
@@ -511,7 +504,7 @@ For example, SARS-CoV-2 enters host cells by binding to the angiotensin-converti
 Once inside, it releases its RNA, packaged in a nucleocapsid (N) phosphoprotein,
 and begins assembly of a... *not-fully-understood* replicase-transcriptase complex that will mediate the synthesis of genome mRNA.
 wherein two coronaviral proteases, the papain-like protease (PLpro) and the 3C-like protease, are fundamental to coronaviral replication.
-This yields the spike glycoprotein, the nucleocapsid phosphoprotein, the papain-like protease, and the 3C-like protease as major targets for a purported vaccine or for antiviral therapeutics.
+This yields the spike glycoprotein, the nucleocapsid phosphoprotein, the papain-like protease, and the 3C-like protease as major targets for treatment.
 
 The genome of the SARS-CoV-1 encodes 28 proteins that orchestrate its lifecycle of cell death.
 Four of these are structural proteins on the surface of the virus, sixteen are nonstructural proteins involved in replication (named nsp1-nsp16), and the rest are a loose collection of "accessory" proteins.
