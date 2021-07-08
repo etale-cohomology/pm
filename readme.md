@@ -44,9 +44,9 @@ The elements of each coordinate record are white-space delimited. For example, P
 
 ### ATOM_SITE
 
-http://mmcif.wwpdb.org/docs/tutorials/content/atomic-description.html
-http://mmcif.wwpdb.org/docs/tutorials/content/molecular-entities.html
-http://mmcif.wwpdb.org/dictionaries/mmcif_pdbx_v40.dic/Categories/atom_site.html
+http://mmcif.wwpdb.org/docs/tutorials/content/atomic-description.html  
+http://mmcif.wwpdb.org/docs/tutorials/content/molecular-entities.html  
+http://mmcif.wwpdb.org/dictionaries/mmcif_pdbx_v40.dic/Categories/atom_site.html  
 
 Data items in the ATOM_SITE category record details about the atom sites in a macromolecular crystal structure, such as
 the positional coordinates, atomic displacement parameters, magnetic moments and directions.
