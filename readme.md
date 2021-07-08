@@ -397,27 +397,17 @@ In this article, we review old and new literature about the functions of the thr
 particularly through its HVD as a hub for interactions with host cell molecules, with multiple effects on the biology of the host cell at early points in infection.
 These and many future discoveries will provide targets for anti-viral therapies as well as strategies for modification of vectors for vaccine and oncolytic interventions.
 
-sars-cov-1 fatality: 10%
-sars-cov-2 fatality:  3%
-mers-cov   fatality: 40%
+sars-cov-1 fatality: 10.0%  
+sars-cov-2 fatality:  0.1%  
+mers-cov   fatality: 30.1%  
 
-sars-cov-1 transmissibility (R0): 2.0 - 5.0
-sars-cov-2 transmissibility (R0): 1.4 - 5.5
-mers-cov   transmissibility (R0): <1
+sars-cov-1 transmissibility (R0): 2.0 - 5.0  
+sars-cov-2 transmissibility (R0): 1.4 - 2.0  
+mers-cov   transmissibility (R0): <1  
 
 sars-cov-2 properties:
   - it's is a betacoronavirus
   - it's is a positive-sense single-stranded RNA virus (one of the longest of all RNA viruses?)
-
-To detect sars-cov-2, you can use reverse-transcription polymerase-chain-reaction (RT-PCR).
-RT-PCR requires a nasopharyngeal swab, which is placed into a viral transport media.
-Viral RNA is isolated via RNA extraction, which requires the use of a specific test kit.
-Post RNA isolation, reverse transcription (the conversion of RNA into complementary DNA (cDNA)) is facilitated by combining the RNA with deoxyribonucleotides and other reagents and exposing the sample to various temperatures.
-Once converted to cDNA, the sample is analyzed via PCR. To do so, the cDNA is mixed with specific probes, short sequences of DNA that are complementary to signature sequences of the viral genome.
-These probes contain fluorescent markers that are detected by the realtime PCR machine, which provides a read out quantifying the amount of fluorescence detected.
-This value is called the Ct number, and is inversely related to the amount of DNA.
-Typically, Ct numbers are analyzed relative to a ‘housekeeping’ gene via the comparative Ct method, which uses the difference in Ct values between these samples to determine whether viral sequences are present.
-As such, RT-PCR detects the presence of viral RNA in a sample--it does not necessarily signify the presence of replicating virus.
 
 Despite a high similarity with the genome sequence of SARS-CoV-1 and SARS-like CoVs, sars-cov-2 has a peculiar furin-like cleavage site in the Spike protein, lacking in the other SARS-like CoVs.
 We discuss the possible functional consequences of this cleavage site in the viral cycle, pathogenicity and its potential implication in the development of antivirals.
@@ -476,29 +466,6 @@ research procedure of new drug might cost years/decades.
 There are still are no clinically approved antiviral drugs, vaccines or monoclonal antibody therapies to treat SARS-CoV infections
 
 The coronaviral proteases, papain-like protease (PLpro) and 3C-like protease (3CLpro), are attractive antiviral drug targets because they are essential for coronaviral replication
-
-Protease inhibitors that have been developed and are currently used in clinical practice include:
-  - Antiretroviral HIV-1 protease inhibitors — class stem –navir:
-    - amprenavir
-    - atazanavir
-    - darunavir
-    - fosamprenavir
-    - indinavir
-    - lopinavir
-    - nelfinavir
-    - ritonavir
-    - saquinavir
-    - tipranavir
-  - Hepatitis C virus NS3/4A protease inhibitors — class stem –previr:
-    - asunaprevir
-    - boceprevir
-    - grazoprevir
-    - glecaprevir
-    - paritaprevir
-    - simeprevir
-    - telaprevir
-
-Antivirals: sofosbuvir, daclatasvir, ribavirin, simeprevir, faldaprevir
 
 Although the primary function of PLpro and 3CLpro are to process the viral polyprotein in a coordinated manner, PLpro has the additional function of stripping ubiquitin and ISG15 from host-cell proteins to aid coronaviruses in their evasion of the host innate immune responses. Therefore, targeting PLpro with antiviral drugs may have an advantage in not only inhibiting viral replication but also inhibiting the dysregulation of signaling cascades in infected cells that may lead to cell death in surrounding, uninfected cells. 
 
@@ -586,72 +553,72 @@ A human's full DNA sequence (ie. the human genome) is 0.000000002 nanometers WID
 This is how DNA folds inside the cell nucleus: youtube.com/watch?v=zBzdvhwtG5A youtube.com/watch?v=1Fyq9ul9N9Q
 Chromosomes have their 'X' shape only when the cell divides!
 
-A: Adenine  is a NUCLEOBASE in the NUCLEIC ACID of DNA
-C: Cytosine is a NUCLEOBASE in the NUCLEIC ACID of DNA
-G: Guanine  is a NUCLEOBASE in the NUCLEIC ACID of DNA
-T: Thymine  is a NUCLEOBASE in the NUCLEIC ACID of DNA
-U: Uracil   is a NUCLEOBASE in the NUCLEIC ACID of DNA
+A: Adenine  is a NUCLEOBASE in the NUCLEIC ACID of DNA  
+C: Cytosine is a NUCLEOBASE in the NUCLEIC ACID of DNA  
+G: Guanine  is a NUCLEOBASE in the NUCLEIC ACID of DNA  
+T: Thymine  is a NUCLEOBASE in the NUCLEIC ACID of DNA  
+U: Uracil   is a NUCLEOBASE in the NUCLEIC ACID of DNA  
 
 Length of DNA in one human cell is:
-  SUM length of each chromosome for each of 46 chromosomes, WHICH IS
-  0.085 meters +
-  0.083 meters +
-  0.067 meters +
-  0.065 meters +
-  0.062 meters +
-  0.058 meters +
-  0.054 meters +
-  0.050 meters +
-  0.048 meters +
-  0.046 meters +
-  0.046 meters +
-  0.045 meters +
-  0.039 meters +
-  0.036 meters +
-  0.035 meters +
-  0.031 meters +
-  0.028 meters +
-  0.027 meters +
-  0.020 meters +
-  0.021 meters +
-  0.016 meters +
-  0.017 meters +
-  0.053 meters +
-  0.020 meters, WHICH IS
-  --------------------------------
+
+  SUM length of each chromosome for each of 46 chromosomes, WHICH IS  
+  0.085 meters +  
+  0.083 meters +  
+  0.067 meters +  
+  0.065 meters +  
+  0.062 meters +  
+  0.058 meters +  
+  0.054 meters +  
+  0.050 meters +  
+  0.048 meters +  
+  0.046 meters +  
+  0.046 meters +  
+  0.045 meters +  
+  0.039 meters +  
+  0.036 meters +  
+  0.035 meters +  
+  0.031 meters +  
+  0.028 meters +  
+  0.027 meters +  
+  0.020 meters +  
+  0.021 meters +  
+  0.016 meters +  
+  0.017 meters +  
+  0.053 meters +  
+  0.020 meters, WHICH IS  
   2.104 meters
 
-Length of DNA in one human is:
-  (length of DNA in one human cell) * (number of cells in a human), WHICH IS
-  2.104 meters * * 10,000,000,000,000, WHICH IS
-  --------------------------------
-  21,040,000,000,000 meters
+Length of DNA in one human is:  
+  (length of DNA in one human cell) * (number of cells in a human), WHICH IS  
+  2.104 meters * * 10,000,000,000,000, WHICH IS  
+  --------------------------------  
+  21,040,000,000,000 meters  
 
-chromosome  1:  248,956,422 base pairs, 0.085 meters long
-chromosome  2:  242,193,529 base pairs, 0.083 meters long
-chromosome  3:  198,295,559 base pairs, 0.067 meters long
-chromosome  4:  190,214,555 base pairs, 0.065 meters long
-chromosome  5:  181,538,259 base pairs, 0.062 meters long
-chromosome  6:  170,805,979 base pairs, 0.058 meters long
-chromosome  7:  159,345,973 base pairs, 0.054 meters long
-chromosome  8:  145,138,636 base pairs, 0.050 meters long
-chromosome  9:  138,394,717 base pairs, 0.048 meters long
-chromosome 10:  133,797,422 base pairs, 0.046 meters long
-chromosome 11:  135,086,622 base pairs, 0.046 meters long
-chromosome 12:  133,275,309 base pairs, 0.045 meters long
-chromosome 13:  114,364,328 base pairs, 0.039 meters long
-chromosome 14:  107,043,718 base pairs, 0.036 meters long
-chromosome 15:  101,991,189 base pairs, 0.035 meters long
-chromosome 16:   90,338,345 base pairs, 0.031 meters long
-chromosome 17:   83,257,441 base pairs, 0.028 meters long
-chromosome 18:   80,373,285 base pairs, 0.027 meters long
-chromosome 19:   58,617,616 base pairs, 0.020 meters long
-chromosome 20:   64,444,167 base pairs, 0.021 meters long
-chromosome 21:   46,709,983 base pairs, 0.016 meters long
-chromosome 22:   50,818,468 base pairs, 0.017 meters long
-chromosome X:   156,040,895 base pairs, 0.053 meters long
-chromosome Y:    57,227,415 base pairs, 0.020 meters long
-ALL:          3,088,286,401 base pairs
+chromosome  1:  248,956,422 base pairs, 0.085 meters long  
+chromosome  2:  242,193,529 base pairs, 0.083 meters long  
+chromosome  3:  198,295,559 base pairs, 0.067 meters long  
+chromosome  4:  190,214,555 base pairs, 0.065 meters long  
+chromosome  5:  181,538,259 base pairs, 0.062 meters long  
+chromosome  6:  170,805,979 base pairs, 0.058 meters long  
+chromosome  7:  159,345,973 base pairs, 0.054 meters long  
+chromosome  8:  145,138,636 base pairs, 0.050 meters long  
+chromosome  9:  138,394,717 base pairs, 0.048 meters long  
+chromosome 10:  133,797,422 base pairs, 0.046 meters long  
+chromosome 11:  135,086,622 base pairs, 0.046 meters long  
+chromosome 12:  133,275,309 base pairs, 0.045 meters long  
+chromosome 13:  114,364,328 base pairs, 0.039 meters long  
+chromosome 14:  107,043,718 base pairs, 0.036 meters long  
+chromosome 15:  101,991,189 base pairs, 0.035 meters long  
+chromosome 16:   90,338,345 base pairs, 0.031 meters long  
+chromosome 17:   83,257,441 base pairs, 0.028 meters long  
+chromosome 18:   80,373,285 base pairs, 0.027 meters long  
+chromosome 19:   58,617,616 base pairs, 0.020 meters long  
+chromosome 20:   64,444,167 base pairs, 0.021 meters long  
+chromosome 21:   46,709,983 base pairs, 0.016 meters long  
+chromosome 22:   50,818,468 base pairs, 0.017 meters long  
+chromosome X:   156,040,895 base pairs, 0.053 meters long  
+chromosome Y:    57,227,415 base pairs, 0.020 meters long  
+ALL:          3,088,286,401 base pairs  
 
 nucleotide: has a phosphate group, a sugar group, and a nitrogen base. 2 nucleotides form a base pair?
 DNA base pair: made of 2 NUCLEOBASES bound by hydrogen bonds
@@ -666,12 +633,12 @@ genotype  (hard attributes): an organisms's genetic data?
 phenotype (soft attributes): the composite of an organism's observable attributes, ie. the organism's physical form, biological properties, and behavior. An organism's phenotype comes from: the genetic code (aka. genotype), and the environment
 Karyotype:
 
-45,X     syndrome: chromosomal disorder in ~1/5,000 females
-47,XYY   syndrome: chromosomal disorder in ~1/1,000 males
-47,XXY   syndrome: chromosomal disorder in ~1/1,000 males
-48,XXXY  syndrome: chromosomal disorder
-49,XXXXY syndrome: chromosomal disorder
-47,XXX   syndrome: chromosomal disorder in ~1/1,000 females
+45,X     syndrome: chromosomal disorder in ~1/5,000 females  
+47,XYY   syndrome: chromosomal disorder in ~1/1,000 males  
+47,XXY   syndrome: chromosomal disorder in ~1/1,000 males  
+48,XXXY  syndrome: chromosomal disorder  
+49,XXXXY syndrome: chromosomal disorder  
+47,XXX   syndrome: chromosomal disorder in ~1/1,000 females  
 
 cell death (cells CAN die!)
 
