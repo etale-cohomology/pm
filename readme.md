@@ -55,10 +55,10 @@ The data items for describing anisotropic atomic displacement factors are only u
 --------------------------------------------------------------------------------------------------------------------------------
 ## cool sources
 
-http://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/dealing-with-coordinates
-ftp://ftp.wwpdb.org/pub/pdb/data/structures/divided/mmCIF/
-https://zhanglab.ccmb.med.umich.edu/C-I-TASSER/2019-nCov/
-http://pdb101.rcsb.org/learn/structural-biology-highlights/sars-coronavirus-nonstructural-protein-1
+http://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/dealing-with-coordinates  
+ftp://ftp.wwpdb.org/pub/pdb/data/structures/divided/mmCIF/  
+https://zhanglab.ccmb.med.umich.edu/C-I-TASSER/2019-nCov/  
+http://pdb101.rcsb.org/learn/structural-biology-highlights/sars-coronavirus-nonstructural-protein-1  
 
 3J3Q, Atomic-level structure of the entire HIV-1 capsid:  https://www.rcsb.org/3d-view/3j3q
 
@@ -101,8 +101,6 @@ neutron (gc: `939 MeV/c2`; ec: ` 0 e`; sc: `??`; wc: `??`; spin: `1/2`)
 
 # molecular biology 101
 
-DNA produces 
-
 --------------------------------------------------------------------------------------------------------------------------------
 ## data
 
@@ -118,30 +116,30 @@ Be (beryllium)            (4, ?, 4)
 
 ## aminoacids
 
-00) ARG: MGN,CGY or CGN,AGR (arginine)
-01) HIS: (histidine)
-02) LYS: (lysine)
-03) ASP: (aspartic acid)
-04) GLU: (glutamic acid)
---------
-05) SER: (serine)
-06) THR: (threonine)
-07) ASN: (asparagine)
-08) GLN: (glutamine)
---------
-09) CYS: (cysteine)
-0a) SEC: (selenocysteine)
-0b) GLY: (glycine)
-0c) PRO: (proline)
---------
-0d) ALA: GNC (alanine)
-0e) VAL: (valine)
-0f) ILE: (isoleucine)
-10) LEU: (leucine)
-11) MET: (methionine)
-12) PHE: (phenylalanine)
-13) TYR: (tyrosine)
-14) TRP: (tryptophan)
+00) ARG: MGN,CGY or CGN,AGR (arginine)  
+01) HIS: (histidine)  
+02) LYS: (lysine)  
+03) ASP: (aspartic acid)  
+04) GLU: (glutamic acid)  
+
+05) SER: (serine)  
+06) THR: (threonine)  
+07) ASN: (asparagine)  
+08) GLN: (glutamine)  
+
+09) CYS: (cysteine)  
+0a) SEC: (selenocysteine)  
+0b) GLY: (glycine)  
+0c) PRO: (proline)  
+
+0d) ALA: GNC (alanine)  
+0e) VAL: (valine)  
+0f) ILE: (isoleucine)  
+10) LEU: (leucine)  
+11) MET: (methionine)  
+12) PHE: (phenylalanine)  
+13) TYR: (tyrosine)  
+14) TRP: (tryptophan)  
 
 --------------------------------------------------------------------------------------------------------------------------------
 ## atoms
