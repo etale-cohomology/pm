@@ -554,30 +554,6 @@ Nsp1 is an attractive target for therapy since it plays a role early in infectio
 it is one of the first proteins produced by the virus and it has been shown to be important for the pathogenicity of the virus.
 
 --------------------------------------------------------------------------------------------------------------------------------
-# kosovo: hackthecrisis proposal
-
-At roughly 30 kilobases, SARS-CoV-2 is a "large", positive-stranded RNA betacoronavirus, with 80% genomic similarity to SARS-CoV.
-SARS-CoV-2 enters host cells by binding to the angiotensin-converting enzyme 2 (ACE2) receptors via its highly pathogenic spike (S) glycoproteins.
-Once inside, it releases its RNA, packaged in a nucleocapsid (N) phosphoprotein, to the cytoplasm
-and begins assembly of a sophisticated replicase-transcriptase complex that will mediate the synthesis of genome mRNA,
-wherein two coronaviral proteases, the papain-like protease (PLpro) and the 3C-like protease, are fundamental to coronaviral replication.
-
-This yields the spike glycoprotein, the nucleocapsid phosphoprotein, the papain-like protease, and the 3C-like protease as major targets for a purported vaccine or for antiviral therapeutics.
-Current vaccine technologies in development includes messenger RNA, INO-4800-DNA, nanoparticles, monoclonal antibodies, and purified recombinant viral proteins,
-while some therapeutics being studied are lopinavir-ritonavir, teicoplanin, Remdesivir, Galidesivir, Umefinovir, and Hydroxychloroquine.
-
-Regardless of the line of attack, developing a proper defense against a virus without deep understanding of
-the virus's gene expression, replication and transcription mechanisms, pathogenesis, and the host's immunopathological response is akin to taking a stab in the dark.
-
-To this end, the aim of this work is to aid researchers in their quest to understand SARS-CoV-2 by
-presenting a simple, hackable, GPU-accelerated tool for the visualization of the 3D atomic structure of proteins,
-featuring tight online integration with the Protein Data Bank and beautiful renders via a full-fledged path tracer. (Note that S, N, PLpro, and 3CLpro are all proteins.)
-
-A second step in the project (beyond the hackathon) is to integrate sequence alignment algorithms (such as BLAST), genome analysis tools (such as GATK),
-and GPU-accelerated protein-folding routines, for a seamless transition between computing results and visualizing them,
-as well as adding more protein-rendering algorithms (namely, ribbon diagrams and surface diagrams).
-
---------------------------------------------------------------------------------------------------------------------------------
 # molecular biology tools
 
 ## visualization
